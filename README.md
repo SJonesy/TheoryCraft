@@ -1,6 +1,6 @@
 TheoryCraft
 ===========
-A simple text based game where two player-created parties fight to the death.
+A text based game where two player-created parties fight to the death.
 
 
 Sample Team File
